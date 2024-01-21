@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dogrud
-- 👀 I’m interested in FLutter Development
+- 👀 I’m interested in Android Development
 - 📫 dogukandogru06@gmail.com  
 
 <!---
